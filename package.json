@@ -19,7 +19,7 @@
     "amcharts3": "^3.21.14",
     "ammap3": "^3.21.14",
     "animate.css": "^3.7.0",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "babel-loader": "7",
     "bootstrap": "^4.1.0",
     "bootstrap-vue": "^2.0.0-rc.7",
